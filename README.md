@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxanarki2
-- 👀 I’m interested in work
-- 🌱 I’m currently learning Java Spring Thymeleaf MySql
+- 👀 I’m interested in work in Java Spring Boot
+- 🌱 I’m currently learning Java Spring Boot, Thymeleaf..
 - 💞️ I’m looking to collaborate on any project
 - 📫 9956799@gmail.com
 
